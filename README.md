@@ -1,5 +1,7 @@
 # Simple Single Page App with Vanilla JS
 
+Demo : https://spa-vanillajs.netlify.app/
+
 ## Built with
 
 - The Document Object Modle (DOM)
